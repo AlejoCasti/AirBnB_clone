@@ -119,7 +119,7 @@ $ (hbnb) show BaseModel 49faff9a-6318-451f-87b6-910505c55907
 
 ### DIRECTORIES
 
-| Dinrectory | Description  |
+| Directory | Description  |
 | ------- | --- |
 | models | Models of every class included manage files |
 | models/engine | Manage file storage |
@@ -130,7 +130,6 @@ $ (hbnb) show BaseModel 49faff9a-6318-451f-87b6-910505c55907
 | File | Description  |
 | ------- | --- |
 | console.py| Executable file to start console |
-| main.c | Main file with function to start: <br> - main() <br> - initialize()  |
 | models/*.py | Classes files |
 | models/base_model.py | Base model to create another class |
 | models/engine/file_storage.py | Manage of file storage |
